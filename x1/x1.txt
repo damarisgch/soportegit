@@ -1,0 +1,2 @@
+ plan de pruebas
+Documento en el que se indican las acciones propuestas para las actividades de pruebas. Un plan típico describe: el elemento a probar, las pruebas a realizar, un calendario de pruebas, el personal necesario, los informes, los criterios de evaluación y una planificación de imprevistos.
