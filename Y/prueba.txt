@@ -1,0 +1,19 @@
+Para este plan de prueba, se debe considerar la siguiente información:
+Tiempo de entrega 2 lanzamientos, cada lanzamiento tiene 4 sprints, cada sprint dura 2 semanas.
+Requisitos funcionales del proceso o área de negocio
+El sistema enviará un correo electrónico cuando se registre alguna de las siguientes transacciones: 
+orden de venta del cliente, envío de mercadería al cliente, emisión de factura al cliente y registro de pago del cliente.
+Se permitirá el registro de órdenes de compra con datos obligatorios incompletos, que se podrán completar posteriormente modificando el pedido. 
+Antes de ser aprobado, los datos del pedido deben estar completos.
+Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo de aprobación configurado en el sistema.
+El sistema permitirá a los usuarios autorizados ingresar planes y cronogramas del proyecto.
+El sistema permitirá la aprobación, cambio o actualización de planes y cronogramas del proyecto.
+El sistema permitirá la entrega automatizada de cartas de entrega de pedidos directamente al almacén.
+A cada pedido se le asignará un identificador único, que servirá para identificarlo en todos los procesos posteriores que se lleven a cabo sobre él.
+Al ingresar órdenes de entrega, cada orden de entrega se asociará con una orden de venta.
+La facturación de los pedidos de venta se realizará por lotes, a través de una pantalla de pedidos pendientes de facturación, 
+que mostrará los pedidos no facturados. Una vez facturados, los pedidos no se mostrarán en esta lista.
+El sistema también permitirá el registro de facturas manuales no asociadas a pedidos; sin embargo, estos requerirán la autorización del grupo de 
+administradores antes de ser publicados.
+El proceso de compra en el sistema incluirá los siguientes pasos y transacciones: Entrada de la requisición, aseguramiento 
+de la solicitud de cotización y emisión de la orden de compra.
