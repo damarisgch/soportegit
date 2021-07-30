@@ -1,0 +1,28 @@
+Importar datos
+ 
+Requerimientos
+- Productos
+- Clientes
+- Proveedores
+- Archivo (.csv)
+
+Sprint 2 semana
+
+HIGH LEVES TEST CASES
+Verificar el tipo de selección para importar datos al sistema
+Verificar el registro de datos del producto
+Verificar los datos que registró clientes
+Verificar el registro de datos de los proveedores
+Verificar el botón disponible de selección importar datos
+
+SALIDA --- Test Cases
+Estrategia
+Exploraty testing
+Pruebas funcionales 
+
+Riesgo
+Que no se cuente con la base de datos
+Que no se tenga disponible el ambiente
+
+Documento: Versión, cambios que se van hacer, nombres de responsables 
+del proyecto
