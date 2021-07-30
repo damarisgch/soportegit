@@ -1,0 +1,19 @@
+Ciclo de vida del desarrollo de software
+El ciclo de vida del desarrollo de software (en inglés: SDLC – Systems Development Life Cycle) es la estructura que contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de un producto de software, abarcando la vida completa del sistema, desde la definición de los requisitos hasta la finalización de su uso.
+
+El SDLC es parte del ADN computacional de Ungoti y por este motivo apoyamos el ciclo de vida completo del proyecto a través de las siguientes fases:
+
+Diagrama de SDLC - Ciclo de vida del desarrollo de software
+Las fases de SDLC
+Comunicación
+Este es el momento en el que un cliente solicita un producto de software determinado. Nos contacta para plasmar sus necesidades concretas y presenta su solicitud de desarrollo de software.
+
+Teamwork
+Ideas planifica
+Planificación y análisis
+El desarrollo de software comienza con una fase inicial de planificación incluyendo un análisis de requisitos. Nos fijamos en los requisitos que piden los clientes para estudiar cuales están poco claros, incompletos, ambiguos o contradictorios. Se indaga en profundidad y se hacen demostraciones prácticas incluyendo a los usuarios clave. Los requisitos se agrupan en requisitos del usuario, requisitos funcionales y requisitos del sistema. La recolección de todos los requisitos se lleva a cabo: estudiando el software actual que tengan, entrevistando a usuarios y desarrolladores, consultando bases de datos o mediante cuestionarios.
+
+En la siguiente fase se fija el alcance del proyecto y se plasma por escrito en un documento.
+
+Estudio de viabilidad
+Después de la recolección de requisitos, se idea un plan para procesar el software. Se analiza que parte del software cubre los requisitos de cada usuario. Se investiga la viabilidad financiera y tecnológica. Se utilizan algoritmos para saber si el proyecto de software es factible o no.
